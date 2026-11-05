@@ -44,3 +44,4 @@ The engine does not contain special business rules for particular sample labels 
 3. Inspect the backup and staging outputs and the run summary.
 4. Confirm record counts, duplicate handling, null geometry, coordinate consistency, and blank-value behavior.
 5. Do not promote staging automatically; promotion is not implemented in this repository.
+
